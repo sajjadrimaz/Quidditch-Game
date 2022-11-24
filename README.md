@@ -1,6 +1,6 @@
 # Quidditch-Game
 
-Two teams (home and away) play the game, each team has 6 players (house, keeper, seeker, and 3 chasers). 
+Two teams (home and away) play the quidditch game, each team has 6 players (house, keeper, seeker, and 3 chasers). 
 
 QUAFFLE_POINTS = 10 and SNITCH_POINTS = 150.
 
